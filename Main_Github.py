@@ -4,7 +4,7 @@ from Github_API_Build_Network import Create_Network
 from Github_API_Node_Update import Update_Network
 
 List_Repository = ['whai362/TDA-ReCTS' , 'Zeqiang-Lai/DPHSIR']
-TOKEN = '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'
+TOKEN = ''
 Network_Type = 'Institution'
 
 def Get_results (TOKEN ,List_Repository) : 
