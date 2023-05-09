@@ -3,7 +3,7 @@ from Github_API_Meta_Users import User
 from Github_API_Build_Network import Create_Network
 from Github_API_Node_Update import Update_Network
 
-List_Repository = ['whai362/TDA-ReCTS' , 'Zeqiang-Lai/DPHSIR']
+List_Repository = ['']
 TOKEN = ''
 Network_Type = 'Institution'
 
